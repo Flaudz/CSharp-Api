@@ -13,14 +13,18 @@ You will have to dowload the [.NET Core SDK Latest Version](https://dotnet.micro
 After you have downloaded and installed the sdk you will have to check 2 things
 
 The way you check is throw the visual studio installer
-CLick on modify
+Click on modify
+
 ![alt text](https://github.com/Flaudz/CSharp-Api/blob/master/Images/Modify.PNG "Modify")
 
 After you have done that it will promt you with this window
+
 ![alt text](https://github.com/Flaudz/CSharp-Api/blob/master/Images/ASP.NET.PNG "Check the download")
 Here you will have to check if the **ASP.NET and web development** is installed, if not click it.
 
 If you scroll down you will see this
+
 ![alt text](https://github.com/Flaudz/CSharp-Api/blob/master/Images/.NETCore.PNG "Check the download")
 Here you will have to check if the **.NET Core cross-platform development** is installed, if not click it.
+
 ---
